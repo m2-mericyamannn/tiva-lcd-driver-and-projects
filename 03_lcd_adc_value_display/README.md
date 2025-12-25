@@ -109,7 +109,7 @@ while(1)
 
 ---
 ### Pin Schematic 
-![ADC Pin Photo](images/ADCpotpinschemeproteus.jpeg)
+![ADC Pin Photo](images/ADCpotpinschemeproteus.png)
 ## File Structure
 
 ```

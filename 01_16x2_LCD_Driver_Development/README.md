@@ -44,7 +44,7 @@ The implementation uses **TivaWare DriverLib** and focuses on low-level GPIO con
 
 ---
 ### LCD Pin Schematic
-![Potentiometer Wiring](images/LCDcircuitschemeproteus.jpeg)
+![Potentiometer Wiring](images/LCDcircuitschemeproteus.png)
 
 ## LCD Driver Logic
 
